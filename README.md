@@ -103,9 +103,5 @@ idea打开项目，等待依赖包下载完毕后直接双击Plugins-assembly-as
 - 使用前需要在`config.properties`中配置`email`和`key`才能正常使用 **FOFA高级会员**
 - 项目中配置了error.log，如果有需要提bug，希望能带上这个截图，另外也欢迎提issue帮助改进。
 - 如果出现了bug，不知道哪出错了，也可以在终端使用`java -jar fofaviewer.jar`启动，出错后终端会显示具体的错误详情，提交issue的时候请带上截图。
-- 关注公众号回复 “加群” 即可加入官方交流群
 
-![](https://assets.wgpsec.org/www/images/wechat.png)
-
-[![Stargazers over time](https://starchart.cc/wgpsec/fofa_viewer.svg)](https://starchart.cc/wgpsec/fofa_viewer)
 
